@@ -18,4 +18,4 @@ Please note that this plugin is not ready for being used on production servers a
 - [ ] Rewrite arena setup
 
 ## Contact
-**Discord** boi#1485 or https://discord.gg/XKaXcE4
+**Discord** HaiBanhVaiDai#7237
